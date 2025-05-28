@@ -11,7 +11,7 @@ display: flex; /* Activa Flexbox para centrar contenido */
 justify-content: center; /* Centra horizontalmente el contenido */
 align-items: center; /* Centra verticalmente */
 min-height: 100vh; /* Ocupa al menos toda la altura de la ventana */
-background: url(Imagen.png); /* Imagen de fondo */
+background: url(imagen.png); /* Imagen de fondo */
 background-size: cover; /* Hace que la imagen de fondo cubra todo el 
 espacio */
 transform-style: preserve-3d; /* Mantiene el efecto 3D para los hijos */
